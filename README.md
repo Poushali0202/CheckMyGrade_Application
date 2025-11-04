@@ -22,4 +22,3 @@ It supports CRUD operations, CSV persistence, searching, sorting with timing, ba
 
 ---
 
-## 📁 Project Structure
