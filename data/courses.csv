@@ -1,0 +1,25 @@
+Course_id,Course_name,Description,Credits
+DATA200,Python Programming,Introduction to Python Programming,3
+DATA201,Data Structures,Concepts of data storage and manipulation using arrays,3
+DATA202,Database Systems,Introduction to relational databases and SQL,3
+DATA203,Machine Learning,Basics of algorithms and supervised learning models,3
+DATA204,Data Visualization,Techniques to visualize data using Python libraries,3
+DATA205,Statistics for Data Science,Statistical concepts used in data analysis,3
+DATA206,Big Data Analytics,Introduction to Hadoop,3
+DATA207,Deep Learning,Neural networks and deep learning fundamentals,3
+DATA208,Data Mining,Exploration of large datasets for pattern discovery,3
+DATA209,Web Data Extraction,Techniques for web scraping and APIs,3
+DATA210,Cloud Computing,Fundamentals of cloud services and architecture,3
+DATA211,Natural Language Processing,Processing and analyzing textual data,3
+DATA212,Artificial Intelligence,Principles and applications of AI,3
+DATA213,Computer Vision,Image processing and recognition techniques,3
+DATA214,Data Ethics and Privacy,Understanding ethical use of data and privacy concerns,3
+DATA215,Software Engineering,Software development lifecycle and methodologies,3
+DATA216,Data Security,Securing data and encryption techniques,3
+DATA217,Project Management,Planning and executing software and data projects,3
+DATA218,Advanced Python,Advanced programming features and performance optimization,3
+DATA219,Time Series Analysis,Analyzing sequential and temporal data,3
+DATA220,Reinforcement Learning,Understanding reward-based machine learning systems,3
+DATA221,Data Communication,Concepts of networked data exchange,3
+DATA222,Business Intelligence,Building dashboards and analytical business systems,3
+DATA223,Data Science Capstone,Comprehensive project integrating all course concepts,3

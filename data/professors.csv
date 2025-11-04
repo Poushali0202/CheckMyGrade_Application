@@ -1,0 +1,23 @@
+Professor_id,Professor_name,Email,Rank,Course_id
+P001,Dr. Sam,sam@prof.com,Senior Professor,DATA 201
+P002,Dr. Maria Gonzalez,maria.gonzalez@univ.edu,Assistant Professor,DATA202
+P003,Dr. Kevin Lee,kevin.lee@college.org,Associate Professor,DATA203
+P004,Dr. Priya Singh,priya.singh@edu.com,Senior Professor,DATA204
+P005,Dr. James Brown,jbrown@school.edu,Professor,DATA205
+P006,Dr. Angela Kim,akim@campus.net,Associate Professor,DATA206
+P007,Dr. Robert Davis,rdavis@univ.org,Senior Lecturer,DATA207
+P008,Dr. Aditi Mehta,aditi.mehta@edu.org,Professor,DATA208
+P009,Dr. Michael Chen,mchen@univ.edu,Assistant Professor,DATA209
+P010,Dr. Laura Patel,lpatel@college.com,Professor,DATA210
+P011,Dr. Steven Clark,sclark@campus.edu,Senior Professor,DATA211
+P012,Dr. Hannah Wright,hwright@univ.net,Assistant Professor,DATA212
+P013,Dr. Daniel Park,dpark@edu.org,Associate Professor,DATA213
+P014,Dr. Emily Roberts,eroberts@univ.edu,Professor,DATA214
+P015,Dr. Rajesh Kumar,rajesh.kumar@school.net,Senior Professor,DATA215
+P016,Dr. Olivia Evans,oevans@college.org,Assistant Professor,DATA216
+P017,Dr. Henry Stewart,hstewart@edu.com,Professor,DATA217
+P018,Dr. Grace Lewis,glewis@campus.edu,Associate Professor,DATA218
+P019,Dr. Ethan Scott,escott@school.edu,Senior Professor,DATA219
+P020,Dr. Chloe Adams,cadams@college.net,Professor,DATA220
+P021,Dr. Victor Perez,vperez@univ.org,Assistant Professor,DATA221
+P022,Dr. Sarah Ahmed,sahmed@edu.org,Senior Lecturer,DATA222
